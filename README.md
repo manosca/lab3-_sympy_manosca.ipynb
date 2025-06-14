@@ -1,0 +1,1 @@
+# lab3-_sympy_manosca.ipynb
